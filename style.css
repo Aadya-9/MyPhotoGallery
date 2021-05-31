@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+}
+#home{
+    background-color: antiquewhite;
+}
+.links{
+    display: inline;
+    font-size: 20;
+}
+.links hover{
+ font-size: 25;  
+    color: aqua;
+      padding-left: 33px;
+    padding-right: 25px;
+}
+.menu{
+    font-family: sans-serif;
+    position: fixed;
+    top: 0px;
+    z-index:10;
+    cursor: pointer;
+    background: white;
+    margin-top: 0px;
+    width: 100%;
+}
+img{
+    width:422px;
+    height: 220px;
+}
+.container
+{
+    text-align: center;
+}
+#myCarousel{
+    background-color: firebrick;
+    
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 30px;
+    
+}
+.carousel-inner p{
+    color: white;
+    font-size: 25px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+} 
